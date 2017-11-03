@@ -8,5 +8,7 @@ Stack is an abstract data type with a bounded(predefined) capacity. It is a simp
 
 # Queues
 Queue is also an abstract data type or a linear data structure, in which the first element is inserted from one end called REAR(also called tail), and the deletion of existing element takes place from the other end called as FRONT(also called head). This makes queue as FIFO(First in First Out) data structure, which means that element inserted first will also be removed first.
+![screenshot from 2017-11-03 18-57-47](https://user-images.githubusercontent.com/24549241/32375816-01eeb348-c0c9-11e7-9532-90d3526ecdd3.png)
+
 
 
